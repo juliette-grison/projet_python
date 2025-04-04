@@ -13,14 +13,14 @@ L’utilisateur peut filtrer tous les indicateurs par :
 
 -  🙋‍♀️🙋‍♂️ Genre : Féminin, Masculin
 
-🔹 Indicateurs :
+###🔹 Indicateurs :
 Montant total des achats
 ➤ Affiche la somme totale des ventes selon les filtres sélectionnés.
 
 Évaluation moyenne
 ➤ Affiche la moyenne des évaluations données par les clients.
 
-🔹 Graphiques interactifs :
+###🔹 Graphiques interactifs :
 📈 Évolution hebdomadaire du montant des achats par ville
 ➤ Ligne de tendance montrant les montants totaux par semaine et par ville.
 
