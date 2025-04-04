@@ -9,9 +9,9 @@ L'objectif est d'aider à la prise de décision commerciale en offrant un aperç
 ## 📊 Fonctionnalités
 L’utilisateur peut filtrer tous les indicateurs par :
 
-📍 Ville : Mandalay, Naypyitaw, Yangon
+-  📍 Ville : Mandalay, Naypyitaw, Yangon
 
-🙋‍♀️🙋‍♂️ Genre : Féminin, Masculin
+-  🙋‍♀️🙋‍♂️ Genre : Féminin, Masculin
 
 🔹 Indicateurs :
 Montant total des achats
