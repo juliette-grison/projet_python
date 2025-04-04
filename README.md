@@ -42,7 +42,7 @@ L’utilisateur peut filtrer tous les indicateurs par :
 -  Dash Bootstrap Components (design élégant et responsive)
 
 ## 🚀 Visualisation du projet
-Le site est disponible à cette adresse : https://td-final-python.onrender.com/](https://projet-python-avls.onrender.com/
+Le site est disponible à cette adresse : https://projet-python-avls.onrender.com/
 
 ## 👩‍💻 Auteur
 Juliette Grison
