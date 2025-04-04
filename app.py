@@ -380,4 +380,4 @@ def update_charts(selected_genders, selected_cities):
     )
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8050, jupyter_mode='external') 
+    app.run(debug=True, port=8050) 
