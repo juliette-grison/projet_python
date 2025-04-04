@@ -14,10 +14,10 @@ L’utilisateur peut filtrer tous les indicateurs par :
 -  🙋‍♀️🙋‍♂️ Genre : Féminin, Masculin
 
 ### 🔹 Indicateurs :
-Montant total des achats  
+-  Montant total des achats  
 ➤ Affiche la somme totale des ventes selon les filtres sélectionnés.
 
-Évaluation moyenne  
+-  Évaluation moyenne  
 ➤ Affiche la moyenne des évaluations données par les clients.
 
 ### 🔹 Graphiques interactifs :
