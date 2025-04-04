@@ -1,4 +1,4 @@
-# 🛒 Tableau de Bord - Analyse des Achats dans une Chaîne de Supermarchés (Myanmar)
+# 🛒 Tableau de Bord - Analyse des Achats dans une Chaîne de Supermarchés
 
 ## 📌 Description du Projet
 Cette application est une interface web interactive développée en Python avec Dash, permettant de visualiser et d’analyser les données d’une chaîne de supermarchés située au Myanmar. L’application fournit des indicateurs clés et des visualisations dynamiques pour mieux comprendre le comportement des clients selon leur ville et leur genre.
